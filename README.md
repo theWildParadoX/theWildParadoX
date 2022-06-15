@@ -8,7 +8,7 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS3,HTML5,Vue-J
 
 ## Some things about me:
 
-* ⚡ Here's my website https://webdev-sandeep.netlify.app/
+* ⚡ Here's my website https://webdev-sandeep-portfolio.netlify.app/
 
 * ✉️  You can contact me at [webdev.sandeepkumar@gmail.com](mailto:webdev.sandeepkumar@gmail.com) 
 
